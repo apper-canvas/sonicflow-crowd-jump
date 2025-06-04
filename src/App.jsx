@@ -2,7 +2,7 @@ import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
-import Home from './pages/Home'
+import HomePage from './pages/HomePage'
 import NotFound from './pages/NotFound'
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <Router>
       <div className="App bg-black min-h-screen text-white">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<HomePage />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
         <ToastContainer
