@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Chill Vibes",
+    "description": "Perfect for relaxing after a long day",
+    "tracks": [
+      {
+        "id": "3",
+        "title": "Ocean Waves",
+        "artist": "Nature Sounds",
+        "album": "Peaceful Moments",
+        "duration": 300,
+        "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+        "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+        "isFavorite": true
+      },
+      {
+        "id": "6",
+        "title": "Summer Breeze",
+        "artist": "Chill Vibes",
+        "album": "Seasonal Moods",
+        "duration": 225,
+        "albumArt": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop",
+        "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+        "isFavorite": false
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    "createdAt": 1640995200000,
+    "lastModified": 1640995200000
+  },
+  {
+    "id": "2",
+    "name": "Electronic Beats",
+    "description": "High energy electronic music for workouts",
+    "tracks": [
+      {
+        "id": "2",
+        "title": "Electric Pulse",
+        "artist": "Synth Wave",
+        "album": "Digital Dreams",
+        "duration": 195,
+        "albumArt": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop",
+        "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+        "isFavorite": false
+      },
+      {
+        "id": "8",
+        "title": "Digital Love",
+        "artist": "Cyber Hearts",
+        "album": "Future Romance",
+        "duration": 255,
+        "albumArt": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop",
+        "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+        "isFavorite": false
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop",
+    "createdAt": 1641081600000,
+    "lastModified": 1641081600000
+  },
+  {
+    "id": "3",
+    "name": "Nature Sounds",
+    "description": "Sounds from nature for meditation and focus",
+    "tracks": [
+      {
+        "id": "7",
+        "title": "Thunder Storm",
+        "artist": "Weather Sounds",
+        "album": "Nature's Power",
+        "duration": 320,
+        "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+        "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+        "isFavorite": true
+      },
+      {
+        "id": "11",
+        "title": "Forest Whispers",
+        "artist": "Woodland Harmony",
+        "album": "Deep Woods",
+        "duration": 310,
+        "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+        "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+        "isFavorite": true
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=300&h=300&fit=crop",
+    "createdAt": 1641168000000,
+    "lastModified": 1641168000000
+  },
+  {
+    "id": "4",
+    "name": "Retro Collection",
+    "description": "Classic hits from the 80s and 90s",
+    "tracks": [
+      {
+        "id": "10",
+        "title": "Neon Nights",
+        "artist": "Retro Wave",
+        "album": "80s Revival",
+        "duration": 265,
+        "albumArt": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop",
+        "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+        "isFavorite": false
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=300&h=300&fit=crop",
+    "createdAt": 1641254400000,
+    "lastModified": 1641254400000
+  },
+  {
+    "id": "5",
+    "name": "Favorites",
+    "description": "My all-time favorite tracks",
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Midnight Dreams",
+        "artist": "Aurora Beats",
+        "album": "Nocturnal Vibes",
+        "duration": 240,
+        "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+        "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+        "isFavorite": true
+      },
+      {
+        "id": "5",
+        "title": "Cosmic Journey",
+        "artist": "Space Echo",
+        "album": "Interstellar",
+        "duration": 280,
+        "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+        "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+        "isFavorite": true
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    "createdAt": 1641340800000,
+    "lastModified": 1641340800000
+  }
+]

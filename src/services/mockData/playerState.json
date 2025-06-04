@@ -1,0 +1,52 @@
+[
+  {
+    "id": "player-1",
+    "currentTrack": {
+      "id": "1",
+      "title": "Midnight Dreams",
+      "artist": "Aurora Beats",
+      "album": "Nocturnal Vibes",
+      "duration": 240,
+      "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+      "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+      "isFavorite": true
+    },
+    "isPlaying": false,
+    "currentTime": 0,
+    "volume": 0.8,
+    "repeatMode": "off",
+    "shuffleEnabled": false,
+    "queue": [
+      {
+        "id": "1",
+        "title": "Midnight Dreams",
+        "artist": "Aurora Beats",
+        "album": "Nocturnal Vibes",
+        "duration": 240,
+        "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+        "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+        "isFavorite": true
+      },
+      {
+        "id": "2",
+        "title": "Electric Pulse",
+        "artist": "Synth Wave",
+        "album": "Digital Dreams",
+        "duration": 195,
+        "albumArt": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop",
+        "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+        "isFavorite": false
+      },
+      {
+        "id": "3",
+        "title": "Ocean Waves",
+        "artist": "Nature Sounds",
+        "album": "Peaceful Moments",
+        "duration": 300,
+        "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+        "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+        "isFavorite": true
+      }
+    ]
+  }
+]

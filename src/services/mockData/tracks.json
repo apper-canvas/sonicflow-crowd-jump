@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "title": "Midnight Dreams",
+    "artist": "Aurora Beats",
+    "album": "Nocturnal Vibes",
+    "duration": 240,
+    "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": true
+  },
+  {
+    "id": "2",
+    "title": "Electric Pulse",
+    "artist": "Synth Wave",
+    "album": "Digital Dreams",
+    "duration": 195,
+    "albumArt": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": false
+  },
+  {
+    "id": "3",
+    "title": "Ocean Waves",
+    "artist": "Nature Sounds",
+    "album": "Peaceful Moments",
+    "duration": 300,
+    "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": true
+  },
+  {
+    "id": "4",
+    "title": "City Lights",
+    "artist": "Urban Flow",
+    "album": "Street Symphony",
+    "duration": 210,
+    "albumArt": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": false
+  },
+  {
+    "id": "5",
+    "title": "Cosmic Journey",
+    "artist": "Space Echo",
+    "album": "Interstellar",
+    "duration": 280,
+    "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": true
+  },
+  {
+    "id": "6",
+    "title": "Summer Breeze",
+    "artist": "Chill Vibes",
+    "album": "Seasonal Moods",
+    "duration": 225,
+    "albumArt": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": false
+  },
+  {
+    "id": "7",
+    "title": "Thunder Storm",
+    "artist": "Weather Sounds",
+    "album": "Nature's Power",
+    "duration": 320,
+    "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": true
+  },
+  {
+    "id": "8",
+    "title": "Digital Love",
+    "artist": "Cyber Hearts",
+    "album": "Future Romance",
+    "duration": 255,
+    "albumArt": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": false
+  },
+  {
+    "id": "9",
+    "title": "Mountain Echo",
+    "artist": "Alpine Sounds",
+    "album": "High Peaks",
+    "duration": 290,
+    "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": true
+  },
+  {
+    "id": "10",
+    "title": "Neon Nights",
+    "artist": "Retro Wave",
+    "album": "80s Revival",
+    "duration": 265,
+    "albumArt": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": false
+  },
+  {
+    "id": "11",
+    "title": "Forest Whispers",
+    "artist": "Woodland Harmony",
+    "album": "Deep Woods",
+    "duration": 310,
+    "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": true
+  },
+  {
+    "id": "12",
+    "title": "Solar Flare",
+    "artist": "Cosmic Energy",
+    "album": "Star Dust",
+    "duration": 245,
+    "albumArt": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": false
+  },
+  {
+    "id": "13",
+    "title": "Urban Pulse",
+    "artist": "Metro Beats",
+    "album": "City Life",
+    "duration": 220,
+    "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": true
+  },
+  {
+    "id": "14",
+    "title": "Crystal Waters",
+    "artist": "Liquid Dreams",
+    "album": "Pure Flow",
+    "duration": 275,
+    "albumArt": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": false
+  },
+  {
+    "id": "15",
+    "title": "Velvet Sky",
+    "artist": "Smooth Operator",
+    "album": "Midnight Jazz",
+    "duration": 295,
+    "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    "audioUrl": "https://www.soundjay.com/misc/sounds-effects/beep-07.mp3",
+    "isFavorite": true
+  }
+]
